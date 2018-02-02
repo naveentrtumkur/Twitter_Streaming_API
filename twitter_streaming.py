@@ -11,10 +11,10 @@ from twitter import Twitter, OAuth, TwitterHTTPError, TwitterStream
 # Variables that contains the user credentials to access Twitter API
 # These are the keys from my developer account.
 
-ACCESS_TOKEN = '317621056-7HRpbagczKKszuWVYet8vWApgZgbYWZjDAciX3fT'
-ACCESS_SECRET = 'oEbkL88kSnJT7Wgnsl3ylshj3lWQRVbVcowncJoOmJ8w1'
-CONSUMER_KEY = '2nFvRY5nWhuafqOTykhoEMgZz'
-CONSUMER_SECRET = '8IZeXkVWnLsv1b8kO1c7gzlg0j1Qr0zsqxP30dj0GgK5y6rgM6'
+ACCESS_TOKEN = 'xxxxxxxxxxxx'
+ACCESS_SECRET = 'xxxxxxxxxxxx'
+CONSUMER_KEY = 'xxxxxxxxxxxxx'
+CONSUMER_SECRET = 'xxxxxxxxxxxxxx'
 
 oauth = OAuth(ACCESS_TOKEN, ACCESS_SECRET, CONSUMER_KEY, CONSUMER_SECRET)
 
